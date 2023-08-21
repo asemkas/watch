@@ -1,0 +1,107 @@
+.body  {
+  background-color: #181717;
+  font-family: sans-serif;
+}
+.container {
+  max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+ }
+   .watch {
+    display: flex ;
+    justify-content: space-between;
+    margin-top: 50px;
+   }
+   .content h1 {
+    font-size: 220px;
+    font-weight: 400;
+    line-height: 0px;
+   }
+   .content p {
+    font-size: 32px;
+   }
+   .buttons button {
+    padding: 20px 50px;
+    border: none;
+    cursor: pointer;
+   }
+   .buy {
+    background-color: #0f0f0f;
+    color: #f0eaea;
+   }
+
+   #models {
+    margin-top: 80px;
+   }
+   .models-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+   }
+   .content-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   .content-title h1 {
+    line-height: 0;
+    font-size: 60px;
+   }
+   .content-title p {
+    font-size: 24px;
+    margin: 0;
+   }
+   .model {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   .image2 {
+    background-color: #f0eaea;
+    padding: 110px 60px;
+   }
+   .model h4 {
+    font-size: 32px;
+   }
+   .model p {
+    font-size: 32px;
+    max-width: 531px;
+   }
+   .image{
+    background-color: #f0eaea;
+    padding: 110px 60px;
+   }
+   .al {
+    width: 178.025px;
+    height: 1px;
+    background-color: #f8f8f8;
+
+   }
+   .vall {
+    margin-top: 10pc;
+   }
+   .vall p {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 4pc;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 170%;
+   }
+   .ball {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   }
+   .vall p span {
+    color: #bb8b5d;
+    font-family: league Spartan;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 170%;
+    text-decoration-line: underline;
+   }
